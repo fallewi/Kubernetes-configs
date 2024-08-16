@@ -32,7 +32,7 @@
 [![Semgrep Cloud](https://github.com/fallewi/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/fallewi/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/fallewi/Kubernetes-configs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/fallewi/Kubernetes-configs/actions/workflows/trivy.yaml)
 
-[git.io/k8s-configs](https://git.io/k8s-configs)
+[https://github.com/fallewi//k8s-configs](https://https://github.com/fallewi//k8s-configs)
 
 ## Intro
 
@@ -313,4 +313,4 @@ Forked from the [Templates](https://github.com/fallewi/Templates) repo.
 
 [![Stargazers over time](https://starchart.cc/fallewi/Kubernetes-configs.svg)](https://starchart.cc/fallewi/Kubernetes-configs)
 
-[git.io/k8s-configs](https://git.io/k8s-configs)
+[https://github.com/fallewi//k8s-configs](https://https://github.com/fallewi//k8s-configs)

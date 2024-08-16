@@ -30,7 +30,7 @@ init:
 .PHONY: bash-tools
 bash-tools:
 	@if ! command -v check_pytools.sh; then \
-		curl -L https://git.io/bash-bootstrap | sh; \
+		curl -L https://https://github.com/fallewi//bash-bootstrap | sh; \
 	fi
 
 # ========
